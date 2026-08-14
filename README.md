@@ -1,43 +1,52 @@
-📊 NumPy Practice Notebook – Day 6
-📌 Description
+# 📊 NumPy Practice Notebook – Day 6
 
-This project is a Google Colab notebook demonstrating the basics of NumPy for numerical data analysis. It covers array creation, indexing, slicing, reshaping, mathematical operations, boolean masking, broadcasting, and aggregate functions.
+## 📌 Description
 
-✨ Topics Covered
-Creating 1D, 2D, and 3D arrays
-Checking array dimensions and data types
-Indexing and slicing
-Reshaping arrays
-Creating arrays using:
-zeros()
-ones()
-arange()
-linspace()
-Mathematical operations
-Vectorized operations
-Boolean masking
-Broadcasting
-Aggregate functions:
-sum()
-mean()
-min()
-max()
-median()
-🛠️ Technologies Used
-Python 3
-NumPy
-Google Colab
-📂 Project Structure
+This project is a Google Colab notebook demonstrating the basic concepts of **NumPy** and its use in numerical data analysis. The notebook contains examples of creating arrays, accessing elements, performing mathematical operations, and analyzing numerical data.
+
+## ✨ Topics Covered
+
+- Creating 1D, 2D, and 3D arrays
+- Checking array dimensions using `ndim`
+- Checking data types using `dtype`
+- Array indexing
+- Array slicing
+- Reshaping arrays
+- Creating arrays using:
+  - `zeros()`
+  - `ones()`
+  - `arange()`
+  - `linspace()`
+- Mathematical operations
+- Vectorized operations
+- Boolean masking
+- Broadcasting
+- Aggregate functions:
+  - `sum()`
+  - `mean()`
+  - `min()`
+  - `max()`
+  - `median()`
+
+## 🛠️ Technologies Used
+
+- Python 3
+- NumPy
+- Google Colab
+
+## 📂 Project Structure
+
+```text
 NumPy-Practice/
 │
 ├── NumPy_Practice_Day6.ipynb
 └── README.md
+
 ▶️ How to Run
 Open the notebook in Google Colab.
-Run each code cell.
-View the output for each NumPy operation.
-
-You can also open the notebook directly from GitHub using Open in Colab.
+Upload or open the .ipynb file.
+Run the code cells one by one.
+Check the output displayed below each cell.
 
 💻 Example
 import numpy as np
@@ -54,6 +63,15 @@ Sum: 150
 Mean: 30.0
 Maximum: 50
 
-🎯 Learning Outcome
+📚 Concepts Used
+NumPy Arrays
+Indexing and Slicing
+Array Reshaping
+Mathematical Operations
+Vectorization
+Boolean Masking
+Broadcasting
+Aggregate Functions
 
-This notebook helps beginners understand how NumPy arrays work and how NumPy can be used for efficient numerical calculations and data analysis.
+🎯 Learning Outcome
+This notebook helps beginners understand how NumPy arrays work and how NumPy can be used for efficient numerical calculations and basic data analysis.
