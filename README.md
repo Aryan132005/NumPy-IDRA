@@ -36,7 +36,6 @@ This project is a Google Colab notebook demonstrating the basic concepts of **Nu
 
 ## 📂 Project Structure
 
-```text
 NumPy-Practice/
 │
 ├── NumPy_Practice_Day6.ipynb
